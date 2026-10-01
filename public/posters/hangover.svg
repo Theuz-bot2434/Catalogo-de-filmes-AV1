@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a2f9c"/><stop offset="1" stop-color="#240b2a"/></linearGradient></defs>
+<rect width="300" height="450" fill="url(#g)"/>
+<rect x="12" y="12" width="276" height="426" rx="10" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+<text x="150" y="180" font-size="80" text-anchor="middle">🎉</text>
+<text x="150" y="248" fill="#ffffff" font-size="34" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">Se Beber,</text><text x="150" y="292" fill="#ffffff" font-size="34" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">Não Case!</text>
+</svg>

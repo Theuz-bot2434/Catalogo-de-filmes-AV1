@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f7d4f"/><stop offset="1" stop-color="#0b2416"/></linearGradient></defs>
+<rect width="300" height="450" fill="url(#g)"/>
+<rect x="12" y="12" width="276" height="426" rx="10" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+<text x="150" y="180" font-size="80" text-anchor="middle">🍫</text>
+<text x="150" y="270" fill="#ffffff" font-size="34" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">Forrest Gump</text>
+</svg>

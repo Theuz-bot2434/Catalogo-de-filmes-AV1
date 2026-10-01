@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "titulo": "Interestelar",
+    "categoria": "Ficção Científica",
+    "imagemUrl": "/posters/interestelar.jpg",
+    "sinopse": "Um grupo de astronautas viaja por um buraco de minhoca em busca de um novo planeta para a humanidade.",
+    "nota": 8.7,
+    "favorito": false,
+    "ano": 2014,
+    "diretor": "Christopher Nolan"
+  },
+  {
+    "id": 2,
+    "titulo": "Mad Max: Estrada da Fúria",
+    "categoria": "Ação",
+    "imagemUrl": "/posters/madmax.jpg",
+    "sinopse": "Em um deserto pós-apocalíptico, Max se une a Furiosa para fugir de um tirano e sua gangue.",
+    "nota": 8.1,
+    "favorito": false,
+    "ano": 2015,
+    "diretor": "George Miller"
+  },
+  {
+    "id": 3,
+    "titulo": "Forrest Gump",
+    "categoria": "Drama",
+    "imagemUrl": "/posters/forrestgump.jpg",
+    "sinopse": "A vida de um homem simples e de bom coração que, sem querer, participa de grandes momentos da história dos EUA.",
+    "nota": 8.8,
+    "favorito": true,
+    "ano": 1994,
+    "diretor": "Robert Zemeckis"
+  },
+  {
+    "id": 4,
+    "titulo": "Se Beber, Não Case!",
+    "categoria": "Comédia",
+    "imagemUrl": "/posters/hangover.jpg",
+    "sinopse": "Três amigos acordam após uma despedida de solteiro em Las Vegas sem lembrar de nada e sem o noivo.",
+    "nota": 7.7,
+    "favorito": false,
+    "ano": 2009,
+    "diretor": "Todd Phillips"
+  },
+  {
+    "id": 5,
+    "titulo": "Um Lugar Silencioso",
+    "categoria": "Terror",
+    "imagemUrl": "/posters/silentplace.jpg",
+    "sinopse": "Uma família precisa viver em silêncio absoluto para escapar de criaturas que caçam pelo som.",
+    "nota": 7.5,
+    "favorito": false,
+    "ano": 2018,
+    "diretor": "John Krasinski"
+  }
+]
