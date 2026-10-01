@@ -3,7 +3,7 @@
 Protótipo front-end de um catálogo de filmes feito com **React + Vite + React Router + CSS**.
 Permite pesquisar, filtrar por gênero, favoritar, cadastrar e excluir filmes.
 
-**Autor:** _(coloque seu nome aqui)_
+**Autor:** _(André Matheus Oliveira de Sá - 01822223)_
 
 ## Como executar
 
